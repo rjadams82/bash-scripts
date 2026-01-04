@@ -7,3 +7,6 @@ install lazy docker with one line
 
 `curl -L https://raw.githubusercontent.com/rjadams82/bash-scripts/main/install-lazydocker.sh | bash`
 
+## bash autocomplete
+??
+`sudo apt install bash-autocomplete`
